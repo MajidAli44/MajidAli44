@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MajidAli44
-- 👀 I’m interested in Computer Programming and Web development
-- 🌱 I’m currently learning Python , Django and SQL
-- 💞️ I’m looking to collaborate on basic Python Projects and SQL commonds
+- 👋 Hi, I’m @Majid Ali from Pakistan.
+- 👀 I’m interested in Python Development and Data Analysis and Data Sciences.
+- 🌱 I’m currently learning Python , AI, Machine Learning and SQL
+- 💞️ I’m looking to collaborate on basic Python Projects, Machine Learning Projects , Data Analysis and SQL commonds
 - 📫 How to reach me "majidali380@gmail.com"
 
 <!---
