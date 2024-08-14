@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Majid Ali from Pakistan
 
+### 🌱 About Me
+I'm an **experienced AI Engineer** with a strong background in various domains such as **Python Development**, **Data Analysis**, **Data Sciences**, **Machine Learning (ML)**, and **Deep Learning**. My expertise spans across **Computer Vision**, **Natural Language Processing (NLP)**, and **Predictive Modeling**. I enjoy solving complex problems using AI/ML techniques and creating impactful solutions.
+
 ### 👀 Interested In
 - **Python Development**
 - **Data Analysis**
@@ -7,9 +10,6 @@
 - **Machine Learning (ML)**
 - **Deep Learning**
 - **Computer Vision**
-
-### 🌱 About Me
-I'm an **experienced AI Engineer** with a strong background in various domains such as **Python Development**, **Data Analysis**, **Data Sciences**, **Machine Learning (ML)**, and **Deep Learning**. My expertise spans across **Computer Vision**, **Natural Language Processing (NLP)**, and **Predictive Modeling**. I enjoy solving complex problems using AI/ML techniques and creating impactful solutions.
 
 ### 💞️ Looking to Collaborate On
 - **Advanced Python Projects**
